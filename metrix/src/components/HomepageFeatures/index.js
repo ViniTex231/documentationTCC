@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Extraia Relatórios',
+    Svg: require('@site/static/img/relatorioquasemenor.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        O Metrix simplifica a gestão de calibrações, oferecendo uma experiência intuitiva e análise detalhada de resultados passados para maior eficiência estratégica.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Sua Solução!',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        O Metrix é uma solução tudo-em-um para a gestão de calibrações, oferecendo funcionalidades poderosas, relatórios detalhados, comparações eficientes e conveniência centralizada para otimizar suas operações.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Acompanhe as Calibrações dos Instrumentos',
+    Svg: require('@site/static/img/painelcontrolemenor.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        O Metrix é uma ferramenta completa para gerenciar calibrações de instrumentos. Proporciona visualização detalhada de resultados passados e eficiente acompanhamento futuro para garantir precisão e conformidade. Ganhe controle, visibilidade e excelência com o Metrix.
       </>
     ),
   },

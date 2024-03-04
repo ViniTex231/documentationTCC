@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Sprint 1
 
-Docusaurus can manage multiple versions of your docs.
+Essa Sprint tem duração de:
+
+- `01/02/2024` → `13/03/2024`
 
 ## Create a docs version
 

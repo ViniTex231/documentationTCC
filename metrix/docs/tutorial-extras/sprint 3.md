@@ -2,9 +2,11 @@
 sidebar_position: 2
 ---
 
-# Translate your site
+# Sprint 3
 
-Let's translate `docs/intro.md` to French.
+Essa Sprint tem duração de:
+
+- `01/05/2024` → `12/06/2024`
 
 ## Configure i18n
 

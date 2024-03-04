@@ -2,46 +2,53 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Metrix
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Vamos conhecer um pouco mais do **Metrix!**
 
-## Getting Started
+## O que é o Metrix
 
-Get started by **creating a new site**.
+O Metrix é um Sistema de Gerenciamento de Instrumentos de Medição que está sendo desenvolvido durante um projeto de TCC para a área de Qualidade da RexRoth.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Objetivo do Metrix
 
-### What you'll need
+O Metrix tem a finalidade primordial de oferecer uma gestão eficiente e precisa dos instrumentos utilizados nos processos de controle de qualidade. Este Sistema Web visa atender às necessidades específicas da área da Qualidade, garantindo maior confiabilidade e eficácia nas medições
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Principais Delineados
 
-## Generate a new site
+### Centralização de Dados
 
-Generate a new Docusaurus site using the **classic template**.
+- Consolidar todas as informações relacionadas aos instrumentos de medição em um único ponto de acesso.
+- Permitir uma visão abrangente do inventário de instrumentos.
 
-The classic template will automatically be added to your project after you run the command:
+### Rastreabilidade e Histórico
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- Proporcionar rastreabilidade completa, registrando históricos de calibração, manutenção e uso de cada instrumento.
+- Facilitar auditorias e conformidade com normas regulatórias.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Controle de Acesso
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- Implementar um sistema robusto de controle de acesso para garantir que apenas usuários autorizados possam modificar informações críticas.
+- Garantir a integridade e confidencialidade dos dados.
 
-## Start your site
+### Geração de Relatórios
 
-Run the development server:
+- Possibilitar a geração fácil e rápida de relatórios personalizados sobre o status dos instrumentos, histórios de calibração, entre outros.
+- Facilitar a análise de dados para tomadas de decisão informadas.
 
-```bash
-cd my-website
-npm run start
-```
+### Interface Intuitiva
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+- Desenvolver uma interface de usuário intuitiva e amigável, visando facilitar a navegação e utilização por parte dos usuários.
+- Promover uma experiência positiva de uso do sistema.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## Melhorias Futuras
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Análise do Certificado por Inteligência Artificial
+- Notificação aos técnicos via e-mail
+
+Essas melhorias serão aplicadas caso todas as funções do Escopo Inicial tenham sido aplicadas no período do TCC. Caso não seja possível aplicar as melhorias, um próximo desenvolvedor poderá assumir e aplicá-las ao projeto. **Novas melhorias são sempre bem-vindas**.
+
+**Lembrete:** O projeto ainda está em desenvolvimento, quaisquer alterações e/ou adicionais, devem ser contatados os desenvolvedores através do Teams
+
+- `Teixeira Vinícius (CaP/ETS)`
+- `Jesus Matheus (CaP/ETS)`
