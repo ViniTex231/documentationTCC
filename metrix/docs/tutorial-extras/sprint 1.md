@@ -8,50 +8,46 @@ Essa Sprint tem duração de:
 
 - `01/02/2024` → `13/03/2024`
 
-## Create a docs version
+## Resumo da Sprint
 
-Release a version 1.0 of your project:
+Nesta Sprint, fizemos todo o mapeamento do processo, buscando entender cada etapa e sanar as dúvidas.
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+Realizamos o BackLog com as ideias que temos para o projeto, após analisar detalhadamente cada uma, afim de se adaptar com o tempo de desenvolvimento do TCC.
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+Separamos o time em suas determinadas funções. Também separamos os objetivos para cada parte do time
 
-Your docs now have 2 versions:
+Realizamos reuniões diárias com a PO para entender cada fluxo e assim conseguir iniciar o desenvolvimento.
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
+Com base nas informações que obtivemos nas reuniões diárias, realizamos os Wireframes (Documentação que pode ser consultada [**aqui**](../tutorial-basics/wireframe)) e validamos com nossa PO, juntamente com todo o time responsável pela Calibração e Medição dos Instrumentos.
 
-## Add a Version Dropdown
+## Itens Entregues
 
-To navigate seamlessly across versions, add a version dropdown.
+Conseguimos entregar os seguintes itens:
 
-Modify the `docusaurus.config.js` file:
+- Mapeamento do Processo já realizado atualmente
+- BackLog das funções
+- Wireframe
+- Criação da Infraestrutura do Banco de Dados
 
-```js title="docusaurus.config.js"
-export default {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
+## Itens Iniciados
 
-The docs version dropdown appears in your navbar:
+Iniciamos os seguintes itens para a próxima Sprint:
 
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
+- Protótipo seguindo o Wireframe
+- Desenvolvimento seguindo o Protótipo
+- BackEnd de cada tela desenvolvida pelo FrontEnd
 
-## Update an existing version
+## Integrantes do Time
 
-It is possible to edit versioned docs in their respective folder:
+Apresentaremos aqui, cada integrante do time Metrix:
 
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+![Integrantes](./img/integrantes.png)
+
+## Funções do Time
+
+Dividimos as funções em duas partes: **Responsável** e **Informado**
+
+- **Matheus Aprigio** : `DevOps / Front-End / Documentação / Comunicação` → `Back-End / UX/UI / QA / Scrum Master / BD`
+- **Julia Gabrielle** : `Back-End / Front-End / UX/UI / Scrum Master / BD` → `DevOps / Documentação / Comunicação / QA`
+- **Raphael Prates** : `DevOps / Back-End / QA / BD` → `Front-End / Documentação / Comunicação / UX/UI / Scrum Master`
+- **Vinícius Teixeira** : `DevOps / Front-End / Documentação / Comunicação / Scrum Master` → `Back-End / UX/UI / QA / BD`
