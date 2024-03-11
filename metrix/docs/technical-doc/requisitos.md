@@ -6,12 +6,12 @@ sidebar_position: 1
 
 Após apresentar o Metrix, aqui iremos formalizar os Requisitos **Funcionais** e **Não Funcionais**.
 
-- `Requisitos Funcionais`
+## Requisitos Funcionais
     - ` `
     - ` `
     - ` `
 
-- `Requisitos Não Funcionais`
+## Requisitos Não Funcionais
     - ` `
     - ` `
     - ` `
