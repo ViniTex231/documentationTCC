@@ -12,7 +12,7 @@ Após apresentar o Metrix, aqui iremos formalizar os Requisitos **Funcionais** e
     - ` `
 
 ## Requisitos Não Funcionais
-    - ` `
+    - `O sistema deve ser capaz de carregar todas as informações em menos de 3 segundos;`
     - ` `
     - ` `
 
