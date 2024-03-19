@@ -59,5 +59,5 @@ Após apresentar o Metrix, aqui iremos formalizar os Requisitos **Funcionais** e
         - `O website deve ser compátivel com todos os Navegadores Web atuais`
         - `O website deve ser responsivo a todas as telas de Notebooks e Computadores`
 
-     - **RNF06 - Usabilidade**
+    - **RNF06 - Usabilidade**
         - `O aplicativo deve ser intuitivo e fácil de usar, com um tempo máximo de aprendizado de 60 minutos para novos usuários`
