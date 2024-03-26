@@ -52,3 +52,5 @@ Essas melhorias serão aplicadas caso todas as funções do Escopo Inicial tenha
 
 - `Teixeira Vinícius (CaP/ETS)`
 - `Jesus Matheus (CaP/ETS)`
+- `Oliveira Julia (CaP/ETS)`
+- `Prates Raphael (CaP/ETS)`
