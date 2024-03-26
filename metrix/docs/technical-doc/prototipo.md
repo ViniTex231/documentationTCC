@@ -4,54 +4,22 @@ sidebar_position: 3
 
 # Protótipo
 
-Documents are **groups of pages** connected through:
+Nesta documentação, iremos apresentar os Protótipos desenvolvidos.
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+## Exibição dos Protótipos
 
-## Create your first Doc
+Para visualizar os protótipos, clique [**aqui**](https://www.figma.com/file/rDQBDEdMd3A4kOsKBaypCR/Untitled?type=design&node-id=18-31&mode=design&t=NDTcbfzicr5TIhtU-0)
 
-Create a Markdown file at `docs/hello.md`:
+# Desenvolvimento
 
-```md title="docs/hello.md"
-# Hello
+Todos os Protótipos foram desenvolvidos seguindo a base dos [**Wireframes**](https://www.figma.com/file/rDQBDEdMd3A4kOsKBaypCR/Untitled?type=design&node-id=18-32&mode=design&t=9gkDMdXpLoPekXKr-0) desenvolvidos e seguindo todos os padrões exigidos pela RexRoth.
 
-This is my **first Docusaurus document**!
-```
+# Telas presentes no Protótipo
 
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
+As telas presentes no **Protótipo** são:
 
-## Configure the Sidebar
+- `Movimentações`
+  - `Saída para Uso`
+  - `Saída para Laboratório`
 
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-export default {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```
+As telas seguem para **Desenvolvimento Front End e Back End**.
