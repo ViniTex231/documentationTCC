@@ -50,7 +50,7 @@ Essas melhorias serão aplicadas caso todas as funções do Escopo Inicial tenha
 
 **Lembrete:** O projeto ainda está em desenvolvimento, quaisquer alterações e/ou adicionais, devem ser contatados os desenvolvedores através do Teams
 
-- `Teixeira Vinícius (CaP/ETS)`
-- `Jesus Matheus (CaP/ETS)`
-- `Oliveira Julia (CaP/ETS)`
-- `Prates Raphael (CaP/ETS)`
+- `Teixeira Vinícius (CaP/ETS2)`
+- `Jesus Matheus (CaP/ETS2)`
+- `Oliveira Julia (CaP/ETS2)`
+- `Prates Raphael (CaP/ETS2)`
