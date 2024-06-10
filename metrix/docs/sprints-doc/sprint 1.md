@@ -34,7 +34,7 @@ Separamos o time em suas determinadas funções. Também separamos os objetivos 
 
 Realizamos reuniões diárias com a PO para entender cada fluxo e assim conseguir iniciar o desenvolvimento.
 
-Com base nas informações que obtivemos nas reuniões diárias, realizamos os Wireframes (Documentação que pode ser consultada [**aqui**](../tutorial-basics/wireframe)) e validamos com nossa PO, juntamente com todo o time responsável pelo gerenciamento de calibrações dos instrumentos.
+Com base nas informações que obtivemos nas reuniões diárias, realizamos os Wireframes (Documentação que pode ser consultada [**aqui**](../technical-doc/wireframe.md)) e validamos com nossa PO, juntamente com todo o time responsável pelo gerenciamento de calibrações dos instrumentos.
 
 
 
