@@ -54,3 +54,9 @@ Essas melhorias serão aplicadas caso todas as funções do Escopo Inicial tenha
 - `Jesus Matheus (CaP/ETS2)`
 - `Oliveira Julia (CaP/ETS2)`
 - `Prates Raphael (CaP/ETS2)`
+
+## Desenvolvimento
+
+O Metrix foi um Trabalho de Conclusão de Curso desenvolvido pelos Aprendizes **Vinícius Teixeira, Julia Oliveira, Matheus Aprigio e Raphael Prates**, da turma **DS7**.
+
+![Integrantes](./sprints-doc/img/integrantes.jpg)

@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Sua Solução!',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/site.svg').default,
     description: (
       <>
         O Metrix é uma solução tudo-em-um para a gestão de calibrações, oferecendo funcionalidades poderosas, relatórios detalhados, comparações eficientes e conveniência centralizada para otimizar suas operações.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Acompanhe as Calibrações dos Instrumentos',
-    Svg: require('@site/static/img/acompanhecalibracao.svg').default,
+    Svg: require('@site/static/img/dashboard.svg').default,
     description: (
       <>
         O Metrix é uma ferramenta completa para gerenciar calibrações de instrumentos. Proporciona visualização detalhada de resultados passados e eficiente acompanhamento futuro para garantir precisão e conformidade. Ganhe controle, visibilidade e excelência com o Metrix.

@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Metrix',
   tagline: 'Uma solução para o Gerenciamento de Calibração',
-  favicon: 'img/logotiposemfundo.png',
+  favicon: 'img/logoMX.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -58,7 +58,7 @@ const config = {
         title: 'Metrix',
         logo: {
           alt: 'Metrix Logo',
-          src: 'img/logotiposemfundo.png',
+          src: 'img/logoBranca.png',
         },
         items: [
           {
