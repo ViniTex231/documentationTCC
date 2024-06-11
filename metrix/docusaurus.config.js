@@ -67,12 +67,6 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'API', position: 'left'},
-          {
-            href: 'https://github.com/TCC-Metrix',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
