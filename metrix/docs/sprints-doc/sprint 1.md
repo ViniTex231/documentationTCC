@@ -45,7 +45,7 @@ Conseguimos entregar os seguintes itens:
 
 - Mapeamento do Processo já realizado atualmente [**aqui**](https://miro.com/app/board/uXjVNHQ-h0I=/)
 - BackLog das funções [**aqui**](https://trello.com/b/SkSD7afT/tcc)
-- Wireframe [**aqui**](https://www.figma.com/file/rDQBDEdMd3A4kOsKBaypCR/Untitled?type=design&node-id=18-32&mode=design&t=9gkDMdXpLoPekXKr-0)
+- Wireframe [**aqui**](https://www.figma.com/design/1EL19jqCgyeD22J8WpCoSx/Metrix?node-id=0-1&t=wIg0fnKyhHa9iLiY-1)
 - Criação da Infraestrutura do Banco de Dados
 - Criação do Banco de Dados
 - Protótipo do primeiro fluxo de tela a ser desenvolvido **(Saída para uso)**
