@@ -43,8 +43,8 @@ Com base nas informações que obtivemos nas reuniões diárias, realizamos os W
 
 Conseguimos entregar os seguintes itens:
 
-- Mapeamento do Processo já realizado atualmente [**aqui**](https://miro.com/app/board/uXjVNHQ-h0I=/)
-- BackLog das funções [**aqui**](https://trello.com/b/SkSD7afT/tcc)
+- Mapeamento do Processo já realizado atualmente
+- BackLog das funções
 - Wireframe [**aqui**](https://www.figma.com/design/1EL19jqCgyeD22J8WpCoSx/Metrix?node-id=0-1&t=wIg0fnKyhHa9iLiY-1)
 - Criação da Infraestrutura do Banco de Dados
 - Criação do Banco de Dados
