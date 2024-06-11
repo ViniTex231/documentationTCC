@@ -69,6 +69,10 @@ const config = {
           },
         ],
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+      },
       footer: {
         style: 'dark',
         links: [
@@ -115,8 +119,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Metrix.`,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        theme: prismThemes.dracula,
       },
     }),
 };
